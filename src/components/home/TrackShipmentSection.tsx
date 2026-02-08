@@ -17,7 +17,7 @@ const TrackShipmentSection = () => {
 
   const handleTrack = (e: React.FormEvent) => {
     e.preventDefault();
-    if (!trackingNo.trim()) return;
+    // if (!trackingNo.trim()) return;
     setShowComingSoon(true);
   };
 

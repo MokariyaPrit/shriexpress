@@ -1,0 +1,67 @@
+    Service Guide & Compliance Policy
+Our Commitment
+Capitalizing on over three decades of experience, Shree Nandan Courier Limited offers a versatile range of services tailored to meet specific client needs regarding consignment nature, urgency, and delivery location.
+
+Core Focus:
+
+Efficiency: Commitment to serving all client segments with high efficiency and cost-competitiveness.
+
+Innovation: Continuous improvement to meet the ever-changing needs of our customers.
+
+Quality: Strong workforce motivation to maintain the highest standards of service
+
+
+Service Type,Description,Ideal For
+Domestic Courier Service,Assured & time-bound delivery of documents and small parcels.,"Routine business documents, small packages."
+Domestic Cargo Service,"Delivery of heavy consignments via air and surface transport modes. Includes specialized vehicles, material handling equipment, and dedicated manpower.","Bulk goods, heavy machinery, large shipments."
+Express Service,A specialized service for safe & assured delivery in the least possible time.,"Urgent documents, time-critical parcels."
+
+
+
+
+⚠️ Prohibited & Banned Commodities
+To ensure safety and legal compliance, the following items are strictly prohibited in our network. These items will not be booked or carried under any circumstances.
+
+1. Dangerous Goods (Hazardous Materials)
+Defined by IATA regulations, these commodities possess potentially hazardous characteristics.
+
+Explosives: Fireworks, crackers, ammunition, flares.
+
+Gases: Compressed gas cylinders (filled or empty), aerosol cans, lighters, fire extinguishers.
+
+Flammable Liquids: Petrol, diesel, kerosene, paints, thinners, varnishes, alcohol-based perfumes/sanitizers.
+
+Flammable Solids: Matches, sulfur, phosphorous.
+
+Oxidizers & Organic Peroxides: Bleach, fertilizers, hair dyes, fiberglass repair kits.
+
+Toxic & Infectious Substances: Pesticides, insecticides, poisons, medical waste, blood samples, biological cultures.
+
+Radioactive Material: Scientific instruments containing radioactive sources, X-ray parts.
+
+Corrosives: Acids, alkalis, wet-cell batteries, mercury (thermometers).
+
+Miscellaneous: Magnets (danger to aircraft equipment), dry ice, lithium batteries (unless strictly compliant with IATA packing instructions).
+
+2. Legally Restricted & High-Value Items
+Currency: Cash (notes/coins), bearer cheques, travelers' cheques, credit/debit cards.
+
+Precious Items: Gold, silver, bullion, platinum, precious/semi-precious stones, gems, and jewelry.
+
+Indian Postal Articles: Letters and items that infringe upon the Indian Postal Act of 1898.
+
+Negotiable Instruments: Bearer forms, share certificates, bonds.
+
+3. Offensive & Unauthorized Items
+Drugs & Narcotics: Illegal substances, contraband, psychotropic drugs.
+
+Pornography: Obscene or pornographic material in any form.
+
+Weapons: Firearms, air guns, imitation weapons, explosives, and military equipment.
+
+Perishables: Fresh food, fruits, vegetables, meat, fish, flowers (items liable to rot or decay).
+
+
+
+
+    Operational PoliciesFuel SurchargeFuel prices have seen significant fluctuations recently, resulting in increased costs from airlines, co-loaders, and transport authorities.Policy: The company is compelled to adjust its fuel surcharge periodically in tandem with hikes by airlines and transport operators to maintain service quality.Volumetric Weight CalculationIn the courier industry, the cost of transportation depends on the space a shipment occupies, not just its actual weight. Low-density items (like cotton, foam, or plastic parts) may occupy more space than their actual weight suggests.We charge based on the higher of the two: Actual Weight or Volumetric Weight.How to Calculate Volumetric Weight:The formula used is:$$\text{Volumetric Weight (kg)} = \frac{\text{Length (cm)} \times \text{Width (cm)} \times \text{Height (cm)}}{5000}$$Example:If a box measures 40cm x 30cm x 20cm:$40 \times 30 \times 20 = 24,000 \text{ cubic cm}$$24,000 / 5000 = 4.8 \text{ kg}$The volumetric weight is 4.8 kg.
